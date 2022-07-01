@@ -12,7 +12,7 @@ Location: T-Hub SERC IIIT Hyderabad
 
 Attendees: Dr Raghu Reddy,Mohammad Waqas, Bharat Reddy, Soma Datta
 
-    1.Write to IRB for approval 
+    1. Write to IRB for approval 
 
     2. Rewrite certain portions of experimental and write a hypothesis
 
